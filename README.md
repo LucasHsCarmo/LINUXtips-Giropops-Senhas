@@ -1,2 +1,1 @@
-# LINUXtips-giropops-senhas
-Desafio PICK - Programa Intensivo em Containers e Kubernetes
+# Desafio PICK - Programa Intensivo em Containers e Kubernetes
